@@ -25,4 +25,4 @@ See [GUIDE.md](GUIDE.md)
 | ASUS NovaGo TP370QL | [⬇️](https://github.com/jakibaki/novago-driver-dumpx) | x | x |
 | Gateway GWTC11 | x | x | x |
 | Gateway GWTN133 | x | x | x |
-
+| TCL Book 14 GO (9080G2) | [⬇️](https://support-downloads.tcl.com/file/TCTDocument/Software/01BTMKY5Z6POP7HP3TIBGILGVX57P7MWEX/B220G1_QL328_Driverpackage_20221216.zip) | x | x |
